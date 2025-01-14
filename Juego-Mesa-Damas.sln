@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego-Mesa-Damas", "Juego-Mesa-Damas\Juego-Mesa-Damas.csproj", "{F35D1B74-E21B-4A68-B30D-DA4ABA7711DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35D1B74-E21B-4A68-B30D-DA4ABA7711DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35D1B74-E21B-4A68-B30D-DA4ABA7711DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35D1B74-E21B-4A68-B30D-DA4ABA7711DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35D1B74-E21B-4A68-B30D-DA4ABA7711DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE7055B0-BB3F-4585-8891-2FCAA7D15CA3}
+	EndGlobalSection
+EndGlobal
